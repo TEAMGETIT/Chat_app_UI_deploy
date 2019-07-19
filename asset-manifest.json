@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chat_App_UI/static/css/main.b808d5bd.chunk.css",
+    "main.js": "/Chat_App_UI/static/js/main.6ec80f62.chunk.js",
+    "main.js.map": "/Chat_App_UI/static/js/main.6ec80f62.chunk.js.map",
+    "runtime~main.js": "/Chat_App_UI/static/js/runtime~main.59aa22e7.js",
+    "runtime~main.js.map": "/Chat_App_UI/static/js/runtime~main.59aa22e7.js.map",
+    "static/js/2.f9632810.chunk.js": "/Chat_App_UI/static/js/2.f9632810.chunk.js",
+    "static/js/2.f9632810.chunk.js.map": "/Chat_App_UI/static/js/2.f9632810.chunk.js.map",
+    "index.html": "/Chat_App_UI/index.html",
+    "precache-manifest.2740037fb09bf8fd3806c006ca033fee.js": "/Chat_App_UI/precache-manifest.2740037fb09bf8fd3806c006ca033fee.js",
+    "service-worker.js": "/Chat_App_UI/service-worker.js",
+    "static/css/main.b808d5bd.chunk.css.map": "/Chat_App_UI/static/css/main.b808d5bd.chunk.css.map",
+    "static/media/authentication-component.scss": "/Chat_App_UI/static/media/bg.34d35a0d.jpg"
+  }
+}
